@@ -58,7 +58,7 @@ Revenue = Quantity × UnitPrice
 
 ### 📈 Monthly Revenue Trend
 
-![Monthly Revenue](monthly_revenue_trend.png)
+![Monthly Revenue](Monthly_Revenue_Trend.png)
 
 Revenue remained relatively stable for most of the year before increasing significantly in **November**, indicating strong seasonal demand during the festive period.
 
