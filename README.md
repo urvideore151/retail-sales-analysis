@@ -57,18 +57,12 @@ Revenue = Quantity × UnitPrice
 ## Visualizations & Insights
 
 ### 📈 Monthly Revenue Trend
-
-![Monthly Revenue](Monthly_Revenue_Trend.png)
-
 Revenue remained relatively stable for most of the year before increasing significantly in **November**, indicating strong seasonal demand during the festive period.
 
 **Business Insight:** Businesses should prepare inventory and marketing campaigns ahead of peak sales periods.
 
 ---
 ### 🌍 Top Countries by Revenue & Quantity
-
-![Top Countries](top_countries.png)
-
 After excluding the UK, countries such as **the Netherlands, EIRE, and Germany** generated the highest revenue.
 
 **Business Insight:** These markets present strong opportunities for future business expansion.
@@ -76,9 +70,6 @@ After excluding the UK, countries such as **the Netherlands, EIRE, and Germany**
 ---
 
 ### 👥 Top Customers by Revenue
-
-![Top Customers](top_customers.png)
-
 A small group of customers contributes a significant portion of the company's revenue.
 
 The **Top 10 customers contribute approximately 17.26% of the total revenue.**
@@ -88,9 +79,6 @@ The **Top 10 customers contribute approximately 17.26% of the total revenue.**
 ---
 
 ### 🗺️ Demand by Country
-
-![Demand by Country](demand_by_country.png)
-
 Demand varies across different countries, with several regions showing consistently higher purchasing activity than others.
 
 **Business Insight:** Understanding regional demand can help businesses plan marketing strategies and identify new growth opportunities.
